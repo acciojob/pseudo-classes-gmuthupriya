@@ -1,9 +1,15 @@
-#eg1{
+:root{
+	background:rgb(135, 206, 235);	
+}
+article p:first-child{
 	background-color:black;
 	color:white;
 }
-#eg2{
-	color:red;
+article p:nth-child(2) {
+    color: initial;
+}
+article p:last-child {
+    color: red;
 }
 #eg3{
 	font-size:22px;
