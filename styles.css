@@ -1,1 +1,35 @@
+#eg1{
+	background-color:black;
+	color:white;
+}
+#eg2{
+	color:red;
+}
+#eg3{
+	font-size:22px;
+	background:white;
+	padding:10px;
+	width:50%;
+}
+#eg4{
+	background:gray;
+	padding:10px;
+	width:50%
+}
+#eg5{
+	background:pink;
+	width:50%;
+	padding:10px;
+}
+#eg6{
+	background:gray;
+	padding:10px;
+	width:50%
+}
+#eg7{
+	font-size:22px;
+	background:white;
+	padding:10px;
+	width:50%;	
+}
 /*  your css code here. If applicable */
